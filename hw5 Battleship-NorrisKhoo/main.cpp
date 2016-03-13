@@ -1,6 +1,6 @@
 /** @mainpage PIC 10C Homework 5 Implementing Game Logic
     @title PIC 10C Homework 5 Implementing Game Logic
-    @author Norris Khoo 004-420-262
+    @author Norris Khoo
     @date 02-05-2016
 
     The goal of this assignment is to implement logic for my game (Battleship) so that it is playable. The current code provides a fully
