@@ -1,6 +1,6 @@
 /**	@mainpage PIC 10C Homework 1 Particles
 	@title PIC 10C Homework 1 Particles
-	@author Norris Khoo 004-420-262
+	@author Norris Khoo
 	@date 01-11-2016
 
 	This program models particles on a line. The base Thing object carries an int position value while the derived ThingA and ThingB
