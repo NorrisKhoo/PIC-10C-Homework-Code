@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>Wrestlers/Batista.jpg</file>
+        <file>Wrestlers/BigE.jpg</file>
+        <file>Wrestlers/BrayWyatt.jpg</file>
+        <file>Wrestlers/BretHart.jpg</file>
+        <file>Wrestlers/BrockLesnar.jpg</file>
+        <file>Wrestlers/Cesaro.jpg</file>
+        <file>Wrestlers/ChrisJericho.jpg</file>
+        <file>Wrestlers/Christian.jpg</file>
+        <file>Wrestlers/CMPunk.jpg</file>
+        <file>Wrestlers/DanielBryan.jpg</file>
+        <file>Wrestlers/DeanAmbrose.jpg</file>
+        <file>Wrestlers/DolphZiggler.jpg</file>
+        <file>Wrestlers/Edge.jpg</file>
+        <file>Wrestlers/Goldust.jpg</file>
+        <file>Wrestlers/JeffHardy.jpg</file>
+        <file>Wrestlers/JohnCena.jpg</file>
+        <file>Wrestlers/Kane.jpg</file>
+        <file>Wrestlers/KurtAngle.jpg</file>
+        <file>Wrestlers/RandyOrton.jpg</file>
+        <file>Wrestlers/ReyMysterio.jpg</file>
+        <file>Wrestlers/Rusev.jpg</file>
+        <file>Wrestlers/RVD.jpg</file>
+        <file>Wrestlers/SethRollins.jpg</file>
+        <file>Wrestlers/ShawnMichaels.jpg</file>
+        <file>Wrestlers/Sheamus.jpg</file>
+        <file>Wrestlers/SteveAustin.jpg</file>
+        <file>Wrestlers/TheRock.jpg</file>
+        <file>Wrestlers/TripleH.jpg</file>
+        <file>Wrestlers/Undertaker.jpg</file>
+        <file>Wrestlers/VinceMcMahon.jpg</file>
+        <file>Wrestlers/WWEWallpaper.jpg</file>
+    </qresource>
+</RCC>
