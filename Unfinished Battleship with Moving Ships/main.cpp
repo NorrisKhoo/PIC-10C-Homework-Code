@@ -1,6 +1,6 @@
 /** @mainpage PIC 10C Homework 8 Submitting a playable game
     @title PIC 10C Homework 8 Submitting a playable game
-    @author Norris Khoo 004-420-262
+    @author Norris Khoo
     @date 02-26-2016
 
     The goal of this assignment is to submit a version of my game (Battleship) that it is playable. The current code provides a fully
