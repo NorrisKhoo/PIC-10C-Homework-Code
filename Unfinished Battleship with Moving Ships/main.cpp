@@ -1,0 +1,32 @@
+/** @mainpage PIC 10C Homework 8 Submitting a playable game
+    @title PIC 10C Homework 8 Submitting a playable game
+    @author Norris Khoo 004-420-262
+    @date 02-26-2016
+
+    The goal of this assignment is to submit a version of my game (Battleship) that it is playable. The current code provides a fully
+    working version of the game that creates a board, allows setting of player/opponent ships and runs player/opponent turns with a
+    competent AI. Checks are made at each step of the game process to ensure that operations are valid. Movement is tracked with a black
+    border controlled by the arrow keys and space (functionality provided with custom paintEvent, update location and keyPressEvent functions).
+    Overall, the board consisting of titles, instructions, start/quit buttons, ship settings and two 10x10 grids is created on the
+    GameboardSinglePlayer class. The MainWindow class has been expanded to create a starting menu prompting the user to start the game
+    (which then sets central widget as the board) or read its instructions. The song Plastic Pop has been implemented as background music.
+    Have fun playing!
+*/
+
+/** @file main.cpp
+  * @brief This file contains the default code for Qt projects
+  *
+  * Prints the MainWindow to the screen
+ */
+
+#include "mainwindow.h"
+#include <QApplication>
+
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    MainWindow w;
+    w.show();
+
+    return a.exec();
+}
