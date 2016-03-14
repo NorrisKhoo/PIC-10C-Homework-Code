@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/media">
+        <file>PlasticPop.mp3</file>
+    </qresource>
+</RCC>
